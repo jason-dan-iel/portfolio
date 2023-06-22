@@ -10,3 +10,7 @@
 1. Clone this repo
 2. ```cd client```
 3. ```npm i```
+
+# Running the website
+1. ```cd client```
+2. ```npm run dev```
